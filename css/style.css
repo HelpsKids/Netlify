@@ -866,6 +866,11 @@ a:focus {
     background: #FDBE33;
 }
 
+.donate .donate-form {
+    color: #ffffff;
+    font-size: 30px;
+}
+
 .donate .donate-form .control-group {
     margin-bottom: 15px;
 }
